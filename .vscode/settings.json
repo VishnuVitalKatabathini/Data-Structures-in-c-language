@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "AVLTREE.C": "cpp",
+        "stdio.h": "c"
+    }
+}
